@@ -1,0 +1,16 @@
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\Localiza_labs_2.exe
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\Localiza_labs_2.deps.json
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\Localiza_labs_2.runtimeconfig.json
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\Localiza_labs_2.runtimeconfig.dev.json
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\Localiza_labs_2.dll
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\ref\Localiza_labs_2.dll
+C:\Workspace\csharp-exercises\Localiza_labs_2\bin\Debug\net5.0\Localiza_labs_2.pdb
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.csprojAssemblyReference.cache
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.AssemblyInfoInputs.cache
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.AssemblyInfo.cs
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.csproj.CoreCompileInputs.cache
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.dll
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\ref\Localiza_labs_2.dll
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.pdb
+C:\Workspace\csharp-exercises\Localiza_labs_2\obj\Debug\net5.0\Localiza_labs_2.genruntimeconfig.cache
